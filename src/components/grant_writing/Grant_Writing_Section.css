@@ -119,7 +119,15 @@
   }
   
   .grantWritingSection-header p {
-    text-align: center;
+    text-align: justify;
+  }
+
+  .grantWritingSection-left p {
+    text-align: justify;
+  }
+
+  .grantWritingSection-footer p {
+    text-align: justify;
   }
 
   }

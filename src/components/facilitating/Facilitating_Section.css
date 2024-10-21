@@ -116,7 +116,16 @@
   }
   
   .facilitatingSection-header p {
-    text-align: center;
+    text-align: justify;
+  }
+
+  .facilitatingSection-left p{
+    text-align: justify;
+  }
+
+  .facilitatingSection-footer p 
+  {
+    text-align: justify;
   }
 
   }

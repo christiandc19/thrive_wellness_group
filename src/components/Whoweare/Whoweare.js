@@ -17,7 +17,7 @@ const Whoweare = () => {
         <Fade left>
             <div className='homeSection2-left'>
 
-            <h1>ABOUT Thrive Wellness Group</h1>
+            <h1>ABOUT THRIVE WELLNESS GROUP</h1>
                 <h2>Consulting Solutions Empowering The Substance Abuse
                 and Mental Health Treatment Industry.</h2>
                              

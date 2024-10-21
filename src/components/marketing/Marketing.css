@@ -71,8 +71,9 @@
 }
 
 
-.marketing-flexItem .flex-caption p{
+.marketing-flexItem .flex-caption p {
   text-align: center;
+  padding: .5rem;
 }
 
 .marketing-btn {

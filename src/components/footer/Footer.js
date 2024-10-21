@@ -182,7 +182,7 @@ const Footer = () => {
 
           <p className="copyright">
             <p>
-              &copy; 2024 Thrive Wellness Group All rights
+              Copyright &copy; 2024 Thrive Wellness Group. &nbsp; All rights
               reserved
             </p>
           </p>

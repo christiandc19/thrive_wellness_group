@@ -111,6 +111,7 @@
   .investingSection-left {
     width: 100%;
     margin: auto;
+    text-align: left;
   }
   
   .investingSection-right {
@@ -119,9 +120,16 @@
   }
   
   .investingSection-header p {
-    text-align: center;
+    text-align: justify;
   }
 
+  .investingSection-left p {
+    text-align: justify;
+  }
+  
+  .investingSection-footer p {
+    text-align: justify;
+  }
   }
 
 

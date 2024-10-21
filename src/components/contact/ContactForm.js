@@ -107,15 +107,18 @@ const ContactForm = () => {
 
 
                 <div className="contact-cards-container">
+
                         <div className="get_form_inner2">
                             <h2>CALL US</h2>
                             <p>
-                                <AiOutlinePhone /><a href="tel:2134333926"> +1 213-433-3926</a>
+                                <AiOutlinePhone /> Michael Gennello <a href="tel:323-376-3293"> +1 323-376-3293</a><br />
                             </p>
+
                         </div>
 
                         <div className="get_form_inner2 card_email">
                             <h2>EMAIL</h2>
+                            <p><AiOutlineMail /> Mgennello1516@gmail.com</p>
                             <p><AiOutlineMail /> Info@ThriveWG.biz</p>
                         </div>
 

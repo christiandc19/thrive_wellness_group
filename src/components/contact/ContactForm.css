@@ -114,13 +114,14 @@ input {
   }
 
   .contact-cards-container {
+    width: 100%;
     display: flex;
     justify-content: center;
     gap: 1rem;
   }
 
   .get_form_inner2 {
-    width: 100%;
+    width: 30%;
     height: auto;
     padding: 2rem;
     background: #fff;
@@ -131,12 +132,12 @@ input {
   .get_form_inner2  h2 {
     color: var(--primary-color);
     text-align: center;
+    padding: 1rem 0;
     }
     
     .get_form_inner2 p, .get_form_inner2 a {
     color: rgb(39, 38, 38);
     text-align: center;
-    margin: 1rem auto;
     font-size: 13px;
     }
 

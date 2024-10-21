@@ -36,6 +36,9 @@
 
 .box-content {
     width: 100%;
+    border: 1px solid rgba(100, 94, 94, 0.158);
+    border-radius: .5rem;
+
 }
 
 /* LEFT */
@@ -76,7 +79,7 @@
 
 .licensing-right img {
     width: 100%;
-    border-radius: .5rem;
+    border-radius: .5rem .5rem 0 0;
 }
 
 .licensing-right .item {
@@ -100,6 +103,7 @@
 .box1 .box-content p {
     color: #4d4b4b;
     text-align: center;
+    padding: .5rem;
 }
 
 /* box 2 */
@@ -114,6 +118,7 @@
 .box2 .box-content p {
     color: #4d4b4b;
     text-align: center;
+    padding: .5rem;
 }
 
 /* box 3 */
@@ -128,6 +133,8 @@
 .box3 .box-content p {
     color: #4d4b4b;
     text-align: center;
+    padding: .5rem;
+
 }
 
 
